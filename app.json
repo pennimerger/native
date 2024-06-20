@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "native_jobs",
+    "name": "Native_jobs",
     "slug": "native_jobs",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "native_jobs",
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
