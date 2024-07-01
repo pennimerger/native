@@ -7,4 +7,4 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 To learn more about this project, check out:
 
-- [Original credit](https://www.youtube.com/watch?v=ZBCUegTZF7M): Without all the type wahala.
+- [Original credit](https://www.youtube.com/watch?v=ZBCUegTZF7M) without all the type wahala.
