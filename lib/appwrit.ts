@@ -12,12 +12,12 @@ import {
 
 export const appwriteConfig = {
   endpoint: "https://cloud.appwrite.io/v1",
-  platform: "com.cavelight.native",
-  projectId: "6679bde3002bf83d93c4",
-  storageId: "6679d027002854afa9fa",
-  databaseId: "6679c70600134482caf2",
-  userCollectionId: "6679c79e00371f13cea4",
-  videoCollectionId: "6679c8020007a15a99ad",
+  platform: "",
+  projectId: "",
+  storageId: "",
+  databaseId: "",
+  userCollectionId: "",
+  videoCollectionId: "",
 }
 
 // init your react-native SDK
