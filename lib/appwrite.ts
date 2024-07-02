@@ -12,12 +12,12 @@ import {
 
 export const appwriteConfig = {
   endpoint: "https://cloud.appwrite.io/v1",
-  platform: "",
-  projectId: "",
-  storageId: "",
-  databaseId: "",
-  userCollectionId: "",
-  videoCollectionId: "",
+  platform: process.env.PLATFORM as string,
+  projectId: process.env.PROJECT_ID as string,
+  storageId: process.env.STORAGE_ID as string,
+  databaseId: process.env.DATABASE_ID as string,
+  userCollectionId: process.env.USERCOLLECTION_ID as string,
+  videoCollectionId: process.env.VIDEOCOLLECTION_ID as string,
 }
 
 // init your react-native SDK
